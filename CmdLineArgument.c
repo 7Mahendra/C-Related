@@ -8,3 +8,4 @@ int main(int argc,char *argv[]) {
         printf("Argument %d: %s\n", i,argv[i]);
     }
 }
+//This code related to Command line argument code
